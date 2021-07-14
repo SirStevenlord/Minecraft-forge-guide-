@@ -33,5 +33,5 @@ Now under the play tab go to the drop down menu and select the installation you 
 
 Also make sure give it half of your system ram for better performance but 2gb-3gb may work just fine 
 
- Change -xmx1g to however much your system is able give to Minecraft(if I wanted it to have take half of my ram out of 8 then I will change -xmx1g to -xmx4g```
+ Change -xmx1g to however much your system is able give to Minecraft(if I wanted it to take half of my ram out of 8 then I will change -xmx1g to -xmx4g```
 
